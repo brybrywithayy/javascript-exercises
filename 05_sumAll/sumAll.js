@@ -1,5 +1,4 @@
 const sumAll = function(num1, num2) {
-    const regexNumTest = /^[0-9]+$/;
     
     if (num1 < 0 || num2 < 0) {
         return "ERROR";
